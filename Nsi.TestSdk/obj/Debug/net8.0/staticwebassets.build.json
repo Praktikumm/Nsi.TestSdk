@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "N227CSjGxWxnC2abrnFIdYl5orFuWi9Q2CZHr8EB4xw=",
+  "Source": "Nsi.TestSdk",
+  "BasePath": "_content/Nsi.TestSdk",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

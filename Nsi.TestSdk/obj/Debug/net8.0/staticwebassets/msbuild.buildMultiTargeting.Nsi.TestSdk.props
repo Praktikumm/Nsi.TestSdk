@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Nsi.TestSdk.props" />
+</Project>

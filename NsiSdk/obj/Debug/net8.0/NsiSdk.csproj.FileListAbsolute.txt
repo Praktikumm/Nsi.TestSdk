@@ -1,0 +1,11 @@
+D:\FAKS\Praktikum - NSI\Nsi.TestSdk\Nsi.TestSdk\NsiSdk\bin\Debug\net8.0\NsiSdk.deps.json
+D:\FAKS\Praktikum - NSI\Nsi.TestSdk\Nsi.TestSdk\NsiSdk\bin\Debug\net8.0\NsiSdk.dll
+D:\FAKS\Praktikum - NSI\Nsi.TestSdk\Nsi.TestSdk\NsiSdk\bin\Debug\net8.0\NsiSdk.pdb
+D:\FAKS\Praktikum - NSI\Nsi.TestSdk\Nsi.TestSdk\NsiSdk\obj\Debug\net8.0\NsiSdk.GeneratedMSBuildEditorConfig.editorconfig
+D:\FAKS\Praktikum - NSI\Nsi.TestSdk\Nsi.TestSdk\NsiSdk\obj\Debug\net8.0\NsiSdk.AssemblyInfoInputs.cache
+D:\FAKS\Praktikum - NSI\Nsi.TestSdk\Nsi.TestSdk\NsiSdk\obj\Debug\net8.0\NsiSdk.AssemblyInfo.cs
+D:\FAKS\Praktikum - NSI\Nsi.TestSdk\Nsi.TestSdk\NsiSdk\obj\Debug\net8.0\NsiSdk.csproj.CoreCompileInputs.cache
+D:\FAKS\Praktikum - NSI\Nsi.TestSdk\Nsi.TestSdk\NsiSdk\obj\Debug\net8.0\NsiSdk.dll
+D:\FAKS\Praktikum - NSI\Nsi.TestSdk\Nsi.TestSdk\NsiSdk\obj\Debug\net8.0\refint\NsiSdk.dll
+D:\FAKS\Praktikum - NSI\Nsi.TestSdk\Nsi.TestSdk\NsiSdk\obj\Debug\net8.0\NsiSdk.pdb
+D:\FAKS\Praktikum - NSI\Nsi.TestSdk\Nsi.TestSdk\NsiSdk\obj\Debug\net8.0\ref\NsiSdk.dll
